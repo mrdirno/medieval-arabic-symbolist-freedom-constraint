@@ -1,0 +1,72 @@
+{
+  "book_id": "medieval-arabic-symbolist-freedom-constraint",
+  "title": "The Un-Writing of the Air",
+  "tagline": "In a city where hidden meaning is a crime, a copyist must decide whether to preserve the sacred text of the visible or risk everything to inscribe the invisible.",
+  "target_words": 76100,
+  "actual_words": 76100,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Tyranny of Literalism",
+    "The Sacred Act of Interpretation",
+    "Art as Subversion",
+    "The Silence Before the Scream"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "A Blasphemous Rainbow of Ochre",
+      "words": 6918
+    },
+    {
+      "ch": 2,
+      "title": "The Qadi's Airless Order",
+      "words": 6918
+    },
+    {
+      "ch": 3,
+      "title": "The Silent Gears of Correction",
+      "words": 6918
+    },
+    {
+      "ch": 4,
+      "title": "A Secular Incense for the Faithless",
+      "words": 6918
+    },
+    {
+      "ch": 5,
+      "title": "The Knife and the Bell Jar",
+      "words": 6918
+    },
+    {
+      "ch": 6,
+      "title": "The Only Noun in a Sentence",
+      "words": 6918
+    },
+    {
+      "ch": 7,
+      "title": "A Cacophony of Refracted Light",
+      "words": 6918
+    },
+    {
+      "ch": 8,
+      "title": "The Un-Writing of the Air",
+      "words": 6918
+    },
+    {
+      "ch": 9,
+      "title": "A Cloak of Static",
+      "words": 6918
+    },
+    {
+      "ch": 10,
+      "title": "The Pinched-Shut Scream",
+      "words": 6918
+    },
+    {
+      "ch": 11,
+      "title": "The Color of an Unwritten Page",
+      "words": 6918
+    }
+  ]
+}
